@@ -1,0 +1,26 @@
+body {
+  background-color: #ffe6f0;
+  color: #660033;
+  font-family: Georgia, serif;
+  padding: 20px;
+}
+
+h1 {
+  color: #cc3366;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #cc0066;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+img {width: 400px;
+  border-radius: 20px; 
+  height: auto;}
